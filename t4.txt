@@ -1,0 +1,13 @@
+DC
+Vsrc_1 v2 v1 5
+R_1    v2 v1 10
+Isrc_1 v2 v1 10
+Vsrc_2 v3 v4 5
+R_2    v3 v4 10
+Isrc_2 v3 v4 10
+Vsrc_3 v5 v0 5
+R_3    v5 v0 10
+Isrc_3 v5 v0 10
+R_4    v1 v0 10
+R_5    v2 v3 10
+R_6    v4 v5 10
